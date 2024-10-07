@@ -34,8 +34,8 @@
 ---
 
 ### 📫 How to reach me:
-- LinkedIn: [(https://www.linkedin.com/in/muskan-saleh-731b59231/)]
-- Email: [rosemiki38@gmail.com]
+- LinkedIn: (https://www.linkedin.com/in/muskan-saleh-731b59231/)
+- Email: rosemiki38@gmail.com
 
 Feel free to check out my repositories and projects!
 
@@ -46,9 +46,6 @@ Feel free to check out my repositories and projects!
 - **Climate Change Advocacy**: Exploring tech solutions for sustainability.
 
 ---
-
-### 🔧 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?MuskanSaleh=your-MuskanSaleh&show_icons=true&theme=radical)
 
 <!---
 MuskanSaleh/MuskanSaleh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
