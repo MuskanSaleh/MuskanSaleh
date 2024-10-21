@@ -1,8 +1,7 @@
-[![MasterHead]("https://www.google.com/url?sa=i&url=https%3A%2F%2Fishazaka.com%2F&psig=AOvVaw0hCl12a3hHxbj4FZPvNPYt&ust=1729627674506000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDJ7a-joIkDFQAAAAAdAAAAABAE")]()
 
 <h1 align="center">Hi 👋, I'm Muskan Saleh</h1>
-<h3 align="center">🎓 Software Engineering Student | Data Enthusiast | MLSA Beta | CAMPUS DIRECTOR ZINDIGI PRIZE 2023-24</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif>
+<h3 align="center">🎓 Software Engineering Student | Data Enthusiast | MLSA Beta | CAMPUS DIRECTOR ZINDIGI PRIZE 2023</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskansaleh&label=Profile%20views&color=0e75b6&style=flat" alt="muskansaleh" /> </p>
 
@@ -12,13 +11,13 @@
 
 - 🌱 I’m currently learning **Tableau.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MuskanSaleh,https://public.tableau.com/app/profile/muskan.saleh/vizzes](https://github.com/MuskanSaleh,https://public.tableau.com/app/profile/muskan.saleh/vizzes)
+- 👨‍💻 All of my projects are available at (https://public.tableau.com/app/profile/muskan.saleh/vizzes)
 
 - 💬 Ask me about **Python,EDA,Stats,Machine learning**
 
 - 📫 How to reach me **rosemiki38@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/muskan-saleh-731b59231/](https://www.linkedin.com/in/muskan-saleh-731b59231/)
+- 📄 Know about my experiences [muskan-saleh](https://www.linkedin.com/in/muskan-saleh-731b59231/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
