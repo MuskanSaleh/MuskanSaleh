@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Datascience_salaries_dashboard_2024](https://public.tableau.com/app/profile/muskan.saleh/vizzes)
 
-- 🌱 I’m currently learning **Tableau.**
+- 🌱 I’m currently learning **Machine Learning.**
 
 - 👨‍💻 All of my projects are available at (https://public.tableau.com/app/profile/muskan.saleh/vizzes)
 
