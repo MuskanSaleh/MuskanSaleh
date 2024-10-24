@@ -4,19 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muskan+Saleh!;" />
 </h1>
 
-<h3 align="center">A passionate Data Science Aspirant from Pakistan</h3>
+<h3 align="center">A passionate Data Science Afeciando/h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Machine Learning Projects**
+ 🔭 I’m currently working on **Machine Learning Projects, Tableau**
  
- 🌱 I’m currently learning **Deep Learning, SQL, PowerBI, NLP**
+ 🌱 I’m currently learning **Deep Learning, SQL, PowerBI**
 
-💬 Ask me about **Machine Learning, Data Manipulation... or anything [here](https://github.com/MuskanSaleh/MuskanSaleh/issues)**
+💬 Ask me about **Machine Learning, Data Analysis... or anything [here](https://github.com/MuskanSaleh/MuskanSaleh/issues)**
 
-⚡ Fun fact **Your brain is constantly eating itself.**
+⚡ Fun fact **Human teeth are the only part of the body that cannot heal themselves.**
 
 </div>
  
