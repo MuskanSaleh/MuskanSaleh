@@ -39,7 +39,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=ai,vscode,github,anaconda,idea,ps" /><br>
     <img src="https://skillicons.dev/icons?i=cpp,python,java,git,html" /><br>
-    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,mysql,mongodb," /><br>
+    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,mysql," /><br>
 </div>
 
 <br/>
